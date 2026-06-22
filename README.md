@@ -58,7 +58,7 @@ Minha rotina de estudos é bem organizada. Veja o que estou aprendendo:
 
 Adoro conhecer novas pessoas, trocar ideias e aprender com a comunidade! Fique à vontade para me chamar:
 
-- 📧 **E-mail:** [seu-email@gmail.com](mailto:seu-email@gmail.com)
+- 📧 **E-mail:** (da.silva.gabriel0502@escola.pr.gov.br)
 - 🌐 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
 - 📷 **Instagram:** [@seu_instagram](https://instagram.com/seu_instagram)
 - 🐙 **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
